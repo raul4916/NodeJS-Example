@@ -1,6 +1,10 @@
 # sample-project
 
-> My spectacular service.
+RedisServer required for API to function correctly
+
+in ubuntu you can install by doing the following
+
+  `sudo apt-get install redis-server`
 
 ## Deploy Service
 
